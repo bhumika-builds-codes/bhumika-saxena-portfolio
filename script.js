@@ -9,7 +9,7 @@
 
 const socialLinks = {
     linkedin: "https://www.linkedin.com/in/bhumikasaxena24112005",
-    github: "https://github.com/saxy1973",
+    github: "https://github.com/bhumika-builds-codes",
     email: "mailto:bhumikasaxena24112005@gmail.com"
 };
 
@@ -22,8 +22,8 @@ const projectsData = [
         desc: "Responsive movie discovery platform for searching films, browsing categories, viewing detailed information, and exploring recommendations through a modern cinematic interface.",
         tech: ["React.js", "Node.js", "Express.js", "MongoDB"],
         img: "assets/projects/movira.svg",
-        liveDemo: "https://saxy1973.github.io/movie-recommendation-system/",
-        github: "https://github.com/saxy1973",
+        liveDemo: "https://bhumika-builds-codes.github.io/movie-recommendation-system/#/login",
+        github: "https://github.com/bhumika-builds-codes",
         tagline: "Discover Your Next Favorite Movie",
         role: "Full Stack Developer",
         org: "Personal Project",
@@ -43,7 +43,7 @@ const projectsData = [
         tech: ["Java", "JSP", "Servlets", "JDBC", "MySQL", "Bootstrap", "Tomcat", "Docker"],
         img: "assets/projects/library.svg",
         liveDemo: "https://library-digitization-book-circulation.onrender.com/",
-        github: "",
+        github: "https://github.com/bhumika-builds-codes",
         tagline: "Digital Library & Circulation Management",
         role: "Full Stack Developer",
         org: "Academic Project",
