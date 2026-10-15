@@ -29,7 +29,7 @@ Chandigarh University · 2023–2027 · CGPA 7.54
 - Email: bhumikasaxena24112005@gmail.com
 - Phone: +91-9369054738
 - LinkedIn: https://www.linkedin.com/in/bhumikasaxena24112005
-- GitHub: https://github.com/saxy1973
+- GitHub: https://github.com/saxy1973](https://github.com/bhumika-builds-codes
 
 ## Run locally
 
