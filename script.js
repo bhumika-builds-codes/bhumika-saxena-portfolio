@@ -96,6 +96,7 @@ const projectsData = [
     }
 ];
 
+
 const skillsData = {
     "01 — PROGRAMMING LANGUAGES": [
         { name: "Java", icon: "devicon-java-plain colored" },
@@ -104,42 +105,39 @@ const skillsData = {
         { name: "Python", icon: "devicon-python-plain colored" },
         { name: "JavaScript", icon: "devicon-javascript-plain colored" }
     ],
-    "02 — WEB DEVELOPMENT": [
-        { name: "HTML5", icon: "devicon-html5-plain colored" },
-        { name: "CSS3", icon: "devicon-css3-plain colored" },
+
+    "02 — WEB TECHNOLOGIES": [
+        { name: "HTML", icon: "devicon-html5-plain colored" },
+        { name: "CSS", icon: "devicon-css3-plain colored" },
         { name: "JavaScript", icon: "devicon-javascript-plain colored" },
         { name: "React.js", icon: "devicon-react-original colored" },
         { name: "Node.js", icon: "devicon-nodejs-plain colored" },
         { name: "Express.js", icon: "devicon-express-original" },
-        { name: "JSP", icon: "svg-code" },
-        { name: "Servlets", icon: "svg-code" },
         { name: "Bootstrap", icon: "devicon-bootstrap-plain colored" }
     ],
-    "03 — DATABASES & CORE": [
+
+    "03 — DATABASES": [
         { name: "SQL", icon: "svg-database" },
         { name: "MySQL", icon: "devicon-mysql-plain colored" },
-        { name: "MongoDB", icon: "devicon-mongodb-plain colored" },
-        { name: "DSA", icon: "svg-brain" },
-        { name: "OOP", icon: "svg-code" },
+        { name: "MongoDB", icon: "devicon-mongodb-plain colored" }
+    ],
+
+    "04 — CORE COMPUTER SCIENCE": [
+        { name: "Data Structures & Algorithms", icon: "svg-brain" },
+        { name: "Object-Oriented Programming", icon: "svg-code" },
         { name: "DBMS", icon: "svg-database" },
-        { name: "Operating Systems", icon: "svg-code" },
+        { name: "Operating Systems", icon: "svg-cpu" },
         { name: "Computer Networks", icon: "svg-cloud" }
     ],
-    "04 — TOOLS & TECHNOLOGIES": [
+
+    "05 — TOOLS & TECHNOLOGIES": [
         { name: "Git", icon: "devicon-git-plain colored" },
         { name: "GitHub", icon: "devicon-github-original" },
-        { name: "Apache Tomcat", icon: "devicon-tomcat-line colored" },
-        { name: "Docker", icon: "devicon-docker-plain colored" },
         { name: "Google Colab", icon: "svg-code" },
-        { name: "Tinkercad", icon: "svg-code" }
-    ],
-    "05 — AI / ML": [
-        { name: "Machine Learning", icon: "svg-brain" },
-        { name: "NLP", icon: "svg-brain" },
-        { name: "LLMs", icon: "svg-brain" },
-        { name: "Python", icon: "devicon-python-plain colored" }
+        { name: "Tinkercad", icon: "svg-cpu" }
     ]
 };
+
 
 const certificationsData = [];
 
